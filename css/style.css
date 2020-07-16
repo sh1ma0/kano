@@ -25,6 +25,11 @@ img{
 
     }
 
+.slider{
+    overflow-x: scroll;
+}
+
+
 #img3{
-    border-top: 1px;
+    margin-top: -5px;
 }
